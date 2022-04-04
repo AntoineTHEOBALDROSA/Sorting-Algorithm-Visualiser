@@ -1,6 +1,8 @@
 # Sorting-Algorithm-Visualiser
 Visualise sorting algorithm
 
+THIS IS NOT MY PERSONNAL CODE BUT IT IS INSPIRED FROM A TUTORIAL ON YOUTUBE
+
 Make sure to have pygame installed
 
 Sorts availaible : 
